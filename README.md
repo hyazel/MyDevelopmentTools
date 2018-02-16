@@ -11,8 +11,8 @@
 # About
 My development curated list for my everyday
 
-#Libraries And Frameworks
+# Libraries And Frameworks
 
-##Analytics
+## Analytics
 * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
 * [Google Analytics](https://analytics.google.com/analytics/web) - A must
