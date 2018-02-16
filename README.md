@@ -14,7 +14,7 @@ My development toolset
 * Architecture - MVVM
 * Programming paradigm - Reactive/Closure
 
-# Libraries And Frameworks
+# IOS - Libraries And Frameworks
 
 ## Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
@@ -24,6 +24,7 @@ My development toolset
 ## Analytics
 * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
 * [Google Analytics](https://analytics.google.com/analytics/web) - A must
+* [segment](https://segment.com/) - Capture data from every customer touch point
 
 ## Event
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - Simplify asynchronous programming
@@ -35,12 +36,13 @@ My development toolset
 * [MRProgress](https://github.com/mrackwitz/MRProgress) - Collection of drop-in components that display progress
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of awesome loading animations
 
-## Internet Indicator
+## Networking
 * [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability, swifter
 
 ## Animations
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Build complex iOS UIView animations in an easy way 
 * [Hero](https://github.com/lkzhao/Hero) - Beautiful transition library
+* [POP](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions
 
 ## Table View / Collection View
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
@@ -65,11 +67,29 @@ My development toolset
 ## AutoLayout
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL
 
-## Dependency / Package Manager
-* [cocoapods](https://cocoapods.org/) - CocoaPods - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly
-* [HomeBrew](https://brew.sh/) - package manager for macOS
+## Authentfication
+* [auth0](https://auth0.com/) - Login platform
 
-## Terminal
+# Continuous Integration and Continuous Delivery
+* [Jenkins](https://jenkins.io/) - Open source automation server
+* [Fastlane](https://fastlane.tools/) - Way to build and release mobile apps
+* [hockeyapp](https://hockeyapp.net/) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
+
+# Cloud
+* [AWS](https://aws.amazon.com/fr/) - Cloud service powered by Amazon
+
+# MacOs
 * [oh my zsh](http://ohmyz.sh/) - Framework for managing your ZSH configuration
+
+# Dependency / Package Manager
+* [HomeBrew](https://brew.sh/) - package manager for macOS
+* [cocoapods](https://cocoapods.org/) - CocoaPods - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly
+
+# Websites
+* [Medium](https://medium.com/) - Online publishing platform
+* [Github](https://github.com/) - :)
+* [StackOverFlow]() - :)
+
+
 
 
