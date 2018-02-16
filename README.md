@@ -44,7 +44,7 @@ My development toolset
 * [Hero](https://github.com/lkzhao/Hero) - Beautiful transition library
 * [POP](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions
 
-## Table View / Collection View
+## Table View | Collection View
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
 * [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists
 
@@ -89,6 +89,12 @@ My development toolset
 * [Medium](https://medium.com/) - Online publishing platform
 * [Github](https://github.com/) - :)
 * [StackOverFlow]() - :)
+
+# Communication | Project
+* [Slack](https://slack.com/intl/fr-fr) - Chat
+* [Trello](https://trello.com/) - Organize and visual team
+* [Asana](https://asana.com/fr/) - Project managment
+
 
 
 
