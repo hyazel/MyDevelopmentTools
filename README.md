@@ -15,22 +15,16 @@ My development toolset
 * Programming paradigm - Reactive/Closure
 
 # IOS - Libraries And Frameworks
-
-## Reactive Programming
-* [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time
-* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) - RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
-
 ## Analytics
 * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
 * [Google Analytics](https://analytics.google.com/analytics/web) - A must
 * [segment](https://segment.com/) - Capture data from every customer touch point
 
-## Event
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - Simplify asynchronous programming
-
 ## App Store Review
 * [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX in Swift
+
+## Event
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - Simplify asynchronous programming
 
 ## Activity Indicator
 * [MRProgress](https://github.com/mrackwitz/MRProgress) - Collection of drop-in components that display progress
@@ -38,6 +32,11 @@ My development toolset
 
 ## Networking
 * [Reachability](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability, swifter
+
+## Reactive Programming
+* [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time
+* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) - RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 
 ## Animations
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Build complex iOS UIView animations in an easy way 
@@ -81,7 +80,7 @@ My development toolset
 # MacOs
 * [oh my zsh](http://ohmyz.sh/) - Framework for managing your ZSH configuration
 
-# Dependency / Package Manager
+# Dependency | Package Manager
 * [HomeBrew](https://brew.sh/) - package manager for macOS
 * [Cocoapods](https://cocoapods.org/) - CocoaPods - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly
 
@@ -90,18 +89,20 @@ My development toolset
 * [Github](https://github.com/) - :)
 * [StackOverFlow]() - :)
 
-# Communication | Project
+# Communication | Project Managment
 * [Slack](https://slack.com/intl/fr-fr) - Chat
 * [Trello](https://trello.com/) - Organize and visual team
 * [Asana](https://asana.com/fr/) - Project managment
 
-# Ressouces
+# Ressources
 ## Code
 * [Open Source App](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e) - Great open source apps
 ## Photos
 * [Unplash](https://unsplash.com/) - Free photos of everyone
 * [Pexel](https://www.pexels.com/) - Free photos of everyone
 * [Gratisography](https://gratisography.com/) - Free funny photos
+## Icons
+* [Flaticon](https://www.flaticon.com/) - Database of free icons
 
 
 
