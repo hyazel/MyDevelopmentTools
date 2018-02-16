@@ -73,7 +73,7 @@ My development toolset
 # Continuous Integration and Continuous Delivery
 * [Jenkins](https://jenkins.io/) - Open source automation server
 * [Fastlane](https://fastlane.tools/) - Way to build and release mobile apps
-* [hockeyapp](https://hockeyapp.net/) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
+* [Hockeyapp](https://hockeyapp.net/) - Bring Mobile DevOps to your apps with beta distribution, crash reporting, user metrics, feedback, and powerful workflow integrations
 
 # Cloud
 * [AWS](https://aws.amazon.com/fr/) - Cloud service powered by Amazon
@@ -83,7 +83,7 @@ My development toolset
 
 # Dependency / Package Manager
 * [HomeBrew](https://brew.sh/) - package manager for macOS
-* [cocoapods](https://cocoapods.org/) - CocoaPods - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly
+* [Cocoapods](https://cocoapods.org/) - CocoaPods - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly
 
 # Websites
 * [Medium](https://medium.com/) - Online publishing platform
@@ -94,6 +94,14 @@ My development toolset
 * [Slack](https://slack.com/intl/fr-fr) - Chat
 * [Trello](https://trello.com/) - Organize and visual team
 * [Asana](https://asana.com/fr/) - Project managment
+
+# Ressouces
+## Code
+* [Open Source App](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e) - Great open source apps
+## Photos
+* [Unplash](https://unsplash.com/) - Free photos of everyone
+* [Pexel](https://www.pexels.com/) - Free photos of everyone
+* [Gratisography](https://gratisography.com/) - Free funny photos
 
 
 
