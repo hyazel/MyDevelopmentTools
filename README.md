@@ -69,6 +69,9 @@ My development toolset
 ## Authentfication
 * [auth0](https://auth0.com/) - Login platform
 
+## Unit Test
+* [Nimble](https://github.com/Quick/Nimble) - Easier way to unit test
+
 # Continuous Integration and Continuous Delivery
 * [Jenkins](https://jenkins.io/) - Open source automation server
 * [Fastlane](https://fastlane.tools/) - Way to build and release mobile apps
